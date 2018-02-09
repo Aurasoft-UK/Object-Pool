@@ -96,3 +96,5 @@ public:
 
   int getNumItems(){ return numItems; }
 };
+
+ObjectPool objectPool;
