@@ -16,10 +16,6 @@ Written by Jayce Young
 */
 
 #include "stdafx.h"
-#include 
-#include 
-#include 
-#include 
 
 class Item{
 public:
@@ -98,3 +94,6 @@ public:
 };
 
 ObjectPool objectPool;
+
+function runExample();
+
