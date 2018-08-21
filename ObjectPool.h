@@ -6,7 +6,7 @@
  / ___ \ |_| | | | (_| |___) | (_) |  _| |_
 /_/   \_\__,_|_|  \__,_|____/ \___/|_|  \__|
 
-aRa Aurasoft 2008-2015 http://www.aurasoft-skyline.co.uk
+aRa Aurasoft 2008-2018 http://www.aurasoft-skyline.co.uk
 © Copyright aRa Aurasoft & Skyline Game Engine
 
 Hope this helps someone.
